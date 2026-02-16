@@ -138,4 +138,4 @@ This project was developed as part of **CSYM505 – Business Intelligence & Data
 **Vasileia Damaskou Sutton**  
 MSc Business Information Systems & Data Analytics  
 GitHub: `vds-data`  
-LinkedIn: *(add your link)*  
+LinkedIn: www.linkedin.com/in/vasileia-damaskou 
