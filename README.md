@@ -126,7 +126,7 @@ This demonstrates the **strategic and financial value** of integrating Machine L
 ---
 
 ## 📚 Academic Context
-This project was developed as part of **CSYM505 – Business Intelligence & Data Analytics** **(University of Northampton, UK)** and follows best practices in:
+This project was developed as part of **CSYM505 – Business Intelligence & Data Analytics** , **(University of Northampton, UK)** and follows best practices in:
 - Machine learning evaluation  
 - Data governance  
 - BI strategy alignment  
