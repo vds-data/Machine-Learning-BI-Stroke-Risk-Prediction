@@ -59,8 +59,23 @@ This project applies both **supervised and unsupervised machine learning** techn
 - Paired T-Test comparisons  
 
 ➡️ **J48** was selected as the final model due to its strong performance and high interpretability.  
-
 **Best Accuracy Achieved:** **76.84%**
+
+#### Class Imbalance (Weka)
+The original dataset contains a very small number of positive stroke cases, a common real-world machine learning challenge.
+
+<img src="images/Class imbalance weka_1.png" width="900">
+
+<img src="images/Class imbalance weka_2.png" width="900">
+
+---
+
+#### Model Comparison (Paired T-Test – Weka)
+To validate model selection, classifiers were compared using a **Paired Corrected T-Test**.
+
+<img src="images/Paired T-test between J48_Naive Bayes_Random Forest.png" width="900">
+
+This ensured that the final model choice was supported by **statistical significance**, not just raw accuracy.
 
 ---
 
@@ -82,6 +97,8 @@ Multiple combinations of health attributes were evaluated to optimize prediction
 - **Hypertension, BMI, glucose levels, and smoking status** significantly improve model interpretability  
 - Simple, well-chosen feature sets can outperform more complex models  
 
+<img src="images/Stroke Risk Patterns & Multidimensional Health Indicators.png" width="950">
+
 ---
 
 ## 📈 Business Intelligence & KPIs
@@ -96,6 +113,60 @@ Interactive dashboards were designed to simulate **real-world BI reporting** and
 
 ---
 
+### Preventive Health Programs
+<img src="images/1.Preventive Health Programs.png" width="950">
+
+**What it shows:**  
+Subscription revenue, participation rates, and program performance across preventive health services (2024–2025).
+
+**ML Significance:**  
+High-risk individuals identified through stroke prediction models inform the design and targeting of preventive programs.
+
+---
+
+### Medical Center Collaborations
+<img src="images/2.Medical Center Collaborations.png" width="950">
+
+**What it shows:**  
+Growth in medical partnerships, revenue by service type, and contribution by collaborating centers.
+
+**ML Significance:**  
+Stroke risk insights support data-driven partnerships with clinics focused on high-risk populations.
+
+---
+
+### Digital Health Assistants
+<img src="images/3.Digital Health Assistants.png" width="950">
+
+**What it shows:**  
+Subscription growth, total users, ARPU, and yearly revenue from digital health assistants.
+
+**ML Significance:**  
+Predictive models justify scalable digital tools for continuous monitoring of high-risk individuals.
+
+---
+
+### Smoking Cessation Programs
+<img src="images/4.Smoking Cessation Programs.png" width="950">
+
+**What it shows:**  
+Monthly and total revenue from smoking cessation programs.
+
+**ML Significance:**  
+Smoking status is a key stroke-risk factor, directly linking ML insights to targeted intervention programs.
+
+---
+
+### Annual Cryonics Consulting
+<img src="images/5.Annual Cryonics Consulting.png" width="950">
+
+**What it shows:**  
+Consultation revenue, follow-up rates, and yearly financial performance.
+
+**ML Significance:**  
+High-risk predictions enable personalized consulting and long-term strategic engagement.
+
+---
 ## 💰 ROI Analysis (Hypothetical Scenario)
 - **Total BI-Driven Revenue (2024–2025):** €1,293,098  
 - **Total BI Investment Cost:** €218,380  
